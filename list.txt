@@ -1,2 +1,2 @@
-192.0.2.45|198.51.100.123|2a0b:2c3d:4e5f:6a7b::1|2a0b:2c3d:4e5f:6a7b::2;*.seo-exam-ple.com;
+192.0.2.45|198.51.100.123|2a0b:2c3d:4e5f:6a7b::1|2a0b:2c3d:4e5f:6a7b::2;*.seo-exam-ple123.com;
 203.0.113.78|210.12.34.56|2a0b:2c3d:4e5f:6a7b::3|2a0b:2c3d:4e5f:6a7b::4;*.seoseoexample.com;
